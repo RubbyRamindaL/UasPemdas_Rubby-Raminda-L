@@ -100,23 +100,3 @@ getch();
  } while (ulang=='Y' || ulang=='y');
 return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
